@@ -64,7 +64,7 @@ How do screen time, physical activity, and age interact to impact happiness and 
 ---
 
 ## 📄 View Full Report
-👉 [Download the PDF Case Study](Betterhelp_case_study.pdf)
+👉 [Download the PDF Case Study](https://github.com/kathialopezr/betterhelp-case-study/blob/main/Betterhelp_case_study.pdf)
 
 ---
 
